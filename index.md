@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-该网页的布局和风格会按照[repository settings](https://github.com/1009055857/1009055857.github.io/settings/pages)中选择的主题显示. 该网页使用的Jekyll主题保存在文件 `_config.yml` 中.
+该网页的布局和风格会按照[repository settings](https://github.com/1009055857/1009055857.github.io/settings/pages)中选择的主题显示，使用的Jekyll主题名称保存在文件 `_config.yml` 中
 
 ### 寻求支持与联系我们
 
