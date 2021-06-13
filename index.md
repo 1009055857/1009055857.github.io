@@ -38,4 +38,4 @@
 
 ### 官方文档与客服
 
-[官方文档](https://docs.github.com/categories/github-pages-basics/) 或者 [联系客服](https://support.github.com/contact)
+[官方文档](https://docs.github.com/categories/github-pages-basics/)  [联系客服](https://support.github.com/contact)
