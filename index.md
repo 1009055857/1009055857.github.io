@@ -1,37 +1,33 @@
-## 欢迎访问我的网站
+## 欢迎访问我的网站 我爱你们    
+##                         ------高
 
 直接点击[此处](https://github.com/1009055857/1009055857.github.io/edit/main/index.md)维护和修改网站
+具体的文字排版自己搜Markdown语句
 
-一旦修改，GitHub会运行[Jekyll](https://jekyllrb.com/) 自动重建你的网页
-
-### 关于Markdown
-
-Markdown语句可以轻松设置你的文本. 比如
-
+### 第一次建站感受
 ```markdown
-Syntax highlighted code block
+建站的想法，其实十几年前就有了，只是相比那时候，现在的自己唯一有点进步的就是执行力了，大概吧
+初心嘛，单纯只是觉得有一个自己的网站会很酷，也不指望像别人说的那样做引流、赚钱。个人站长挣钱的时代十几年前就已经过去了，引流又引不过大平台。只是单纯的希望，这个抱有多年的想法能真的落地开花。
 
-# Header 1
-## Header 2
-### Header 3
+之前有个域名网站做活动，100元卖1个域名10年的使用权，于是很高兴地花了100元买下了gaogao.eu这个域名，可笑的是到现在还没开始用。这个网站用的还是freenom白送的域名。
+作为一个零代码基础的建站爱好者，不想鼓捣满屏幕的代码，只想要按照傻瓜式的教程搭积木。从成本的角度考虑，花钱的那些VPS用wordpress建站并不划算，我只想写自己的博客，最多介绍一下丝网布。
+这么点需求让我觉得花1块钱都是多余的。而且，花钱买那些系统级VPS，一定会让我各种想法，诸如搭梯子、搭网盘、邮件服务器、MC服务器之类的。精力不够，只要被墙，花出去的钱就打了水漂。
+要是拿来挖矿，应该会直接被服务商给扬了。
 
-- Bulleted
-- List
+之前自己动手找免费的VPS，谷歌已经被撸秃了，1年试用改为3个月。亚马逊、微软的云犯不着。
+真正完全免费的就4家：Oracle、Euserver、Heroku和IBM。前两家就算用德国地址也申请失败，后两家只是容器型的VPS，最多搭个静态网站。但是折腾了一两个晚上，完全按照教程搭积木都搭不起来，只好放弃。
+最后还是用Github给自己搭了一个静态的word，估计没什么人访问，可以视为单机版的网页。
 
-1. Numbered
-2. List
+说实话，搭完之后，看到编辑内容时还是要敲代码，非常挑战自己的码字习惯。此时的自己完全成了泄气的皮球。
+之后大概也不会费力搞这些了。毕竟，在极客网站上花几块钱发布个任务，别人设计的网站一个比一个惊艳。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+心累
 
 ### Jekyll Themes
 
-该网页的布局和风格会按照[repository settings](https://github.com/1009055857/1009055857.github.io/settings/pages)中选择的主题显示，使用的Jekyll主题名称保存在文件 `_config.yml` 中
+修改网页主题直接按[这里](https://github.com/1009055857/1009055857.github.io/settings/pages)，使用的Jekyll主题名称保存在文件 `_config.yml` 中
 
-### 寻求支持与联系我们
+### 官方文档与客服
 
-设置网页有问题? 尝试检索[官方文档](https://docs.github.com/categories/github-pages-basics/) 或者 [联系客服](https://support.github.com/contact)
+[官方文档](https://docs.github.com/categories/github-pages-basics/) 或者 [联系客服](https://support.github.com/contact)
