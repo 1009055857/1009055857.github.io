@@ -1,8 +1,8 @@
 ## 欢迎访问我的网站
 
-直接点击[editor on GitHub](https://github.com/1009055857/1009055857.github.io/edit/main/index.md)维护和修改网站. (in Markdown files).
+直接点击[此处](https://github.com/1009055857/1009055857.github.io/edit/main/index.md)维护和修改网站
 
-一旦修改，GitHub会自动运行[Jekyll](https://jekyllrb.com/) 重建你的网页 (from the content in your Markdown files.)
+一旦修改，GitHub会运行[Jekyll](https://jekyllrb.com/) 自动重建你的网页
 
 ### Markdown
 
