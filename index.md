@@ -4,9 +4,9 @@
 
 一旦修改，GitHub会运行[Jekyll](https://jekyllrb.com/) 自动重建你的网页
 
-### Markdown
+### 关于Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown语句可以轻松设置你的文本. 比如
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1009055857/1009055857.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+该网页的布局和风格会按照[repository settings](https://github.com/1009055857/1009055857.github.io/settings/pages)中选择的主题显示. 该网页使用的Jekyll主题保存在文件 `_config.yml` 中.
 
-### Support or Contact
+### 寻求支持与联系我们
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+设置网页有问题? 尝试检索[官方文档](https://docs.github.com/categories/github-pages-basics/) 或者 [联系客服](https://support.github.com/contact)
